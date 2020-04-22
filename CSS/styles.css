@@ -1,0 +1,125 @@
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Courgette', cursive;
+  color: #d7385e;
+  font-size: 3.5em;
+}
+
+h2 {
+  color: #ff1e56;
+  font-size: 2em;
+}
+
+h3 {
+  color: #862a5c;
+  font-size: 1.5em;
+  padding-bottom: 30px;
+}
+
+p {
+  font-family: 'Manrope', sans-serif;
+  color:#222831;
+  font-size: 2em;
+  font-style: oblique;
+}
+
+.top-container {
+  background-color: #588da8;
+  padding: 50px;
+  position: relative;
+}
+
+.poster {
+  height: 40%;
+  width: 35%;
+}
+
+.story1 {
+  display: inline-block;
+  font-family: 'Marcellus', serif;
+  font-size: 1.5em;
+  color: white;
+  width: 20%;
+  text-align: left;
+  line-height: 2em;
+  padding: 50px;
+  position: absolute;
+  left: 30px;
+  transform: rotate(-10deg);
+}
+
+
+.story2 {
+  display: inline-block;
+  font-family: 'Marcellus', serif;
+  font-size: 1.5em;
+  color: white;
+  width: 20%;
+  text-align: left;
+  line-height: 2em;
+  padding: 50px;
+  position: absolute;
+  right: 30px;
+  transform: rotate(-10deg);
+}
+
+.middle-container {
+  background-color: #ffe2ff;
+  padding: 20px;
+  }
+
+.SeRi1 {
+  padding: 40px;
+  }
+
+.CaptainRi1 {
+  padding: 40px;
+  }
+
+.SeRi {
+  width: 30%;
+  height: 30%;
+      }
+
+.CaptainRi {
+  width: 30%;
+  height: 35%;
+}
+
+.actors {
+  color: #2c003e;
+  display: inline-block;
+  text-align: left;
+  font-size: 1em;
+  width: 40%;
+  line-height: 2.5em;
+  position: relative;
+  bottom: 80px;
+  margin-right: 100px;
+  }
+
+  .bottom-container {
+    background-color: #faeee7;
+    padding: 50px;
+  }
+
+  .FinalScene {
+    width: 70%;
+    height: 35%;
+  }
+
+  .ending {
+    font-size: 1.5em;
+    margin: 40px;
+    color: #1d4d4f;
+  }
+
+  .credits {
+    font-size: 0.75em;
+    margin-top: 100px;
+  }
